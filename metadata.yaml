@@ -1,0 +1,38 @@
+_repo: VeroneseMasterpieces-in-Colour-Series_41974
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Cooper, Frederic Taber
+    alias: Cooper, Fridericus Taber
+    birthdate: 1864
+    deathdate: 1937
+    gutenberg_agent_id: '1245'
+    url: http://www.gutenberg.org/2009/agents/1245
+    wikipedia: http://en.wikipedia.org/wiki/Frederic_Taber_Cooper
+covers:
+- cover_type: archival
+  image_path: 41974-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Crastre, François
+    aliases:
+    - Crastre, Fr. (François)
+    - Crastre, Francois
+    gutenberg_agent_id: '38328'
+    url: http://www.gutenberg.org/2009/agents/38328
+description: ''
+gutenberg_bookshelf: Masterpieces in Colour
+gutenberg_issued: '2013-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Masterpieces in colour
+subjects:
+- !lcc 'ND'
+- !lcsh 'Veronese, 1528-1588'
+title: Veronese
+url: http://www.gutenberg.org/ebooks/41974
